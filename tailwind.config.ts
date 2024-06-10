@@ -13,8 +13,8 @@ const config: Config = {
       },
       colors: {
         'purple-blue-gradient': {
-          'from': '#4299E1', // Purple
-          'to': '#6B46C1',   // Blue
+          'from': '#4299E1', 
+          'to': '#6B46C1',   
         },
       },
     },

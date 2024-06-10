@@ -15,9 +15,9 @@ const Hero = () => {
     >
       <div className="flex flex-col md:flex-row items-center max-w-4xl mx-auto">
         <div className="md:w-1/2 md:pr-8">
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">Hello, I'm Serik Yerassyl</h1>
+          <h1 className="text-4xl md:text-5xl font-bold mb-4">Hello, I am Serik Yerassyl</h1>
           <p className="text-lg md:text-xl mb-4">
-            I am an active learner, 3D modeler and web developer who is highly interested in creating something new to this world. Let's follow my journey together!
+            I am an active learner, 3D artist and web developer who is highly interested in creating something new to this world. Let&apos;s follow my journey together!
           </p>
         </div>
         <div className="mb-8 md:w-1/2 mt-8 md:mt-0">
