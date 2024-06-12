@@ -31,9 +31,21 @@ const Projects = () => {
           <p>🏦 A web application for Halyk OIY Hackathon, with AI advisory, which helps to navigate through the <span className='text-green-500'><a href="https://halykbank.kz/">HalykBank</a></span> website.</p>
         </div>
       </div>
-      <h3 className="text-3xl font-bold">3D projects</h3>
+      <h3 className="text-3xl font-bold"><a href='/3D-projects'>3D projects</a></h3>
       <div className="grid gap-8 grid-cols-1 mt-4 md:grid-cols-2">
       <div className="bg-gradient-to-r from-blue-500 to-purple-700 p-4 rounded shadow">
+          <h3 className="text-2xl font-bold mb-2">
+            <a href="" className="text-gradient text-gradient-hover">Porcshe 911 GT3RS</a>
+          </h3>
+          <p>🏎️ </p>
+        </div>
+        <div className="bg-gradient-to-r from-blue-500 to-purple-700 p-4 rounded shadow">
+          <h3 className="text-2xl font-bold mb-2">
+            <a href="https://sketchfab.com/3d-models/wagon-73eed6735927434aa1770766621f16c2" className="text-gradient text-gradient-hover">Wagon</a>
+          </h3>
+          <p>🚃 Detailed 3D model of wagon made throughout the free Kaino Wagon course.</p>
+        </div>
+        <div className="bg-gradient-to-r from-blue-500 to-purple-700 p-4 rounded shadow">
           <h3 className="text-2xl font-bold mb-2">
             <a href="https://sketchfab.com/3d-models/football-141073dcdf8b406089ed469027640d50" className="text-gradient text-gradient-hover">Football</a>
           </h3>
