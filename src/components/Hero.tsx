@@ -15,7 +15,7 @@ const Hero = () => {
     >
       <div className="flex flex-col md:flex-row items-center max-w-4xl mx-auto">
         <div className="md:w-1/2 md:pr-8">
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">Hello, I am Serik Yerassyl</h1>
+          <h1 className="text-4xl md:text-5xl font-bold mb-4">Hello, I am Yerassyl Serik</h1>
           <p className="text-lg md:text-xl mb-4">
             I am an active learner, 3D artist and web developer who is highly interested in creating something new to this world. Let&apos;s follow my journey together!
           </p>
