@@ -1,16 +1,15 @@
 import Header from '@/components/Header';
-import Hero from '@/components/Hero';
+import Projects from '@/components/Projects';
 import { ThemeProvider } from '@/context/ThemeContext';
-import About from '@/components/About';
+import React from 'react';
 
-const Home = () => {
+export default function ChatPage() {
   return (
+    <>
     <ThemeProvider>
       <Header />
-      <Hero />
-      <About />
+      <Projects />
     </ThemeProvider>
+    </>
   );
-};
-
-export default Home;
+}
